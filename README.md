@@ -35,8 +35,7 @@ No setup required.
 
 #### Local Files
 `python3 local_file.py /path/to/image/ width height`
-   
-   ![local_file_result](./resources/local_file_result.png)
+    ![local_file_result](./resources/local_file_result.png)
 
 #### Flask
 
@@ -131,10 +130,12 @@ Response:
 python3 discord_bot.py
 ```
 * Once the bot is ready, you should see it online in your server
-![discord_bot_online](./resources/discord_bot_online.png)
+
+    ![discord_bot_online](./resources/discord_bot_online.png)
 
 * Add an image as an attachment, and tag the discord bot
-![discord_bot_attachment](./resources/discord_bot_attachment.png)
-![discord_bot_result](./resources/discord_bot_result.png)
+
+    ![discord_bot_attachment](./resources/discord_bot_attachment.png)
+    ![discord_bot_result](./resources/discord_bot_result.png)
 
 
