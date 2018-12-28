@@ -35,7 +35,8 @@ No setup required.
 
 #### Local Files
 `python3 local_file.py /path/to/image/ width height`
-    ![local_file_result](./resources/local_file_result.png)
+
+![local_file_result](./resources/local_file_result.png)
 
 #### Flask
 
