@@ -1,0 +1,6 @@
+aiofiles
+discord.py
+flask
+numpy
+opencv-python
+pybase64
