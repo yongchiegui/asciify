@@ -1,0 +1,8 @@
+{
+  "DISCORD": {
+    "APP_CLIENT_ID": 111111111111111111,
+    "APP_CLIENT_SECRET": "<app_client_secret>",
+    "BOT_TOKEN": "<bot_token>",
+    "SERVER_ID": 111111111111111111
+  }
+}
